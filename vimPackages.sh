@@ -15,3 +15,6 @@ git clone https://github.com/vim-scripts/The-NERD-tree.git
 git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 git clone --recursive https://github.com/davidhalter/jedi-vim.git
 git clone https://github.com/kien/ctrlp.vim.git
+
+# theme
+git clone https://github.com/altercation/solarized.git
