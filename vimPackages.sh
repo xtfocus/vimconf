@@ -16,5 +16,8 @@ git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 git clone --recursive https://github.com/davidhalter/jedi-vim.git
 git clone https://github.com/kien/ctrlp.vim.git
 
-# theme
+# theme solarized. Add the follows to .vimrc to use this theme
+# syntax enable
+#set background=dark
+#colorscheme solarized
 git clone https://github.com/altercation/solarized.git
